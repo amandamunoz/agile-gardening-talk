@@ -253,6 +253,9 @@ body {
 .reveal .controls .navigate-down.fragmented {
   opacity: 0.3; }
 
+.reveal .controls .navigate-down, .reveal .controls .navigate-up, .reveal .controls .navigate-left, .reveal .controls .navigate-right {
+  display: none; }
+
 /*********************************************
  * PROGRESS BAR
  *********************************************/
